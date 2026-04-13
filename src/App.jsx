@@ -62,6 +62,9 @@ const ITEMS = [
   { id:"sp5", label:"Attend a Toronto Raptors game",                   type:"Sports",       city:"Toronto",   diff:3 },
   { id:"sp6", label:"Attend a Blue Jays game",                         type:"Sports",       city:"Toronto",   diff:3 },
   { id:"sp7", label:"Try cross-country skiing",                        type:"Sports",       city:"",          diff:3 },
+  { id:"sp8", label:"Attend a lacross match",                          type:"Sports",       city:"",          diff:2 },
+  { id:"sp9", label:"Try snow-shoeing",                                type:"Sports",       city:"Toronto",   diff:3 },
+  { id:"sp10", label:"Try snow tubing",                                type:"Sports",       city:"Toronto",   diff:3 },
   // Nature
   { id:"n1",  label:"Visit Banff National Park",                       type:"Nature",       city:"Calgary",   diff:4 },
   { id:"n2",  label:"Hike through old-growth forest in BC",            type:"Nature",       city:"Vancouver", diff:3 },
